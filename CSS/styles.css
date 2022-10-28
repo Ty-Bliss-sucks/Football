@@ -1,0 +1,41 @@
+body{
+  background-color:#D34000;
+  font-family:Arial;
+  color:#E1CeB5;
+}
+.imagesize{
+  border-radius:50%;
+  width:250px;
+  height:180px;
+}
+.profileAlignment{
+  padding-right:40%;
+}
+.centerTable{
+  margin-left:auto;
+  margin-right:auto;
+}
+.linkCells{
+  padding:15px;
+}
+.radius{
+  border-radius:100%
+}
+.tablesize{
+  width:100%;
+  height:100%
+}
+.smallimgsize{
+  border-radius:50%;
+  width:100px;
+  height:80px;
+}
+.aligninfo{
+  width:100%
+}
+.infoal{
+  margin-right:50%
+}
+.ulListType{
+  list-style:none;
+}
